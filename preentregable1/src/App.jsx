@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Itemlist text={"Hola"} />
+      <Itemlist text={"a nuestra pagina"} />
     </div>
 
   )
